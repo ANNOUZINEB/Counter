@@ -1,0 +1,52 @@
+body{
+   max-width: 980px;
+   margin: auto;
+   background-color: rgb(220, 235, 235);
+   
+}
+.chal-contianer{
+    float: inline-start;
+    width: 500px;
+    height: 40px;
+    
+}
+h5{
+    padding: 0;
+    margin: 0;
+
+}
+.container{
+    font-size: larger;
+    width: 400px;
+    margin-left:auto ;
+    margin-right: auto;
+    margin-top:200px;
+    margin-bottom:20px ;
+    text-align:center;
+    padding-bottom: 20px;
+    border: black solid 2px;
+    border-radius: 20%;
+    box-shadow: 10px 10px gray;
+    
+}
+
+#value{
+    font-size: 100px;
+    font-weight: lighter;
+}
+.btn{
+    color: rgb(112, 47, 1);
+    background-color: rgb(246, 178, 130);
+    /* background-color: whitesmoke; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px ;
+    font-weight: bolder;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+}
+.btn:hover {
+    background-color: black;
+    color: white;
+    box-shadow:8px 8px rgb(246, 178, 130) ;
+}
